@@ -420,7 +420,7 @@ section .container .innerWrap .innerDesc {
   height: 80%;
 }
 .contentFour .container .innerWrap .innerContent .contentItem .imgItem .cook {
-  background-image: url(../img/cook.jpg);
+  background-image: url(../img/cooking.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
